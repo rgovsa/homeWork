@@ -39,7 +39,7 @@ var maleFemale: String = "мужчина"
 
 print("Возраст человека \(agePerson) года")
 print("Население Иркутска \(popCity) миллиона человек")
-print("Число звезд в галактике более \(starValue) триллионов")
+print("Число звезд в галактике более чем \(starValue) триллионов")
 print("Байт ОЗУ = \(oneBite)")
 print("Средняя зарплата в нашей стране \(averageSalary) рублей")
 print("Какой цвет обозначен в HEX \(hexColor) ?")
